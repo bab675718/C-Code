@@ -1,12 +1,12 @@
         .vscode/
-	C++Code/anagram_string
-	C++Code/binary_search
-	C++Code/class
-	C++Code/employee
-	C++Code/loop
-	C++Code/matrix
-	C++Code/matrix_add
-	C++Code/primefactor
-	C++Code/primefactorization
-	C++Code/template_find_max
-	C++Code/template_struct
+	Code/C++Code/anagram_string
+	CodeC++Code/binary_search
+	CodeC++Code/class
+	CodeCodeC++Code/employee
+	CodeC++Code/loop
+	CodeC++Code/matrix
+	CodeC++Code/matrix_add
+	CodeC++Code/primefactor
+	CodeC++Code/primefactorization
+	CodeC++Code/template_find_max
+	CodeC++Code/template_struct
