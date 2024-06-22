@@ -1,4 +1,4 @@
-    /.vscode
+    .vscode/
 	./C++Code/anagram_string
 	./C++Code/binary_search
 	./C++Code/class
